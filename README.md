@@ -104,8 +104,6 @@ oss-audit-24BCE10427/
 │     script3.png
 │     script4.png
 │     script5.png
-│
-└── Project_Report.pdf
 ```
 
 ---
