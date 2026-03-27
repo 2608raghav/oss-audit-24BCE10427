@@ -97,8 +97,6 @@ oss-audit-24BCE10427/
 ├── script3_disk_auditor.sh
 ├── script4_log_analyzer.sh
 ├── script5_manifesto_generator.sh
-│
-├── manifesto.txt
 ├── README.md
 ├── screenshots/
 │     script1.png
